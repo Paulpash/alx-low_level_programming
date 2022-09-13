@@ -1,4 +1,4 @@
-#include "_putchar.c"
+#include "holberton.h"
 
 /**
  *  main -  prints _putchar, followed by a new line

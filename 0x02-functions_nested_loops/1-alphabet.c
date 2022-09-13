@@ -8,7 +8,7 @@ void print_alphabet(void)
 
 	c = 'a';
  
-	while (c <= 'z');
+	for(c <= 'z');
 	{
 		_putchar(c);
 		c++;

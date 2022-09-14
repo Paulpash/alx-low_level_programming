@@ -5,7 +5,7 @@ include <stdio.h>
  * @c: is the int that will use for the argument of the function
  * Return: 0
  */
-int_abs(int c)
+int _abs(int c)
 {
 	if (c > 0 || c == 0)
 	{
